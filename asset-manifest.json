@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yesbis/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/yesbis/static/js/main.e7d639d1.chunk.js",
+    "main.js.map": "/yesbis/static/js/main.e7d639d1.chunk.js.map",
+    "runtime-main.js": "/yesbis/static/js/runtime-main.c29e48bf.js",
+    "runtime-main.js.map": "/yesbis/static/js/runtime-main.c29e48bf.js.map",
+    "static/js/2.31a522dc.chunk.js": "/yesbis/static/js/2.31a522dc.chunk.js",
+    "static/js/2.31a522dc.chunk.js.map": "/yesbis/static/js/2.31a522dc.chunk.js.map",
+    "static/js/3.d28fc47f.chunk.js": "/yesbis/static/js/3.d28fc47f.chunk.js",
+    "static/js/3.d28fc47f.chunk.js.map": "/yesbis/static/js/3.d28fc47f.chunk.js.map",
+    "index.html": "/yesbis/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/yesbis/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.31a522dc.chunk.js.LICENSE.txt": "/yesbis/static/js/2.31a522dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yesbis/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c29e48bf.js",
+    "static/js/2.31a522dc.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e7d639d1.chunk.js"
+  ]
+}
